@@ -1,2 +1,2 @@
 # phyton-lessons
-Ushbu repository da phyton darslarining amaliky mashg'ulotlari joylangan.
+Ushbu repository da phyton darslarining amaliy mashg'ulotlari joylangan.
